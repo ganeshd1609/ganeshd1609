@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Ganesh Dhadke 👋
 
 ## 🚀 About Me
 I'm a passionate Full Stack Developer who loves building modern web applications with cutting-edge technologies. I enjoy creating seamless user experiences and robust backend solutions.
@@ -6,7 +6,7 @@ I'm a passionate Full Stack Developer who loves building modern web applications
 - 🔭 I'm currently working on exciting full-stack projects
 - 🌱 I'm constantly learning and exploring new technologies
 - 💬 Ask me about web development, APIs, and cloud deployment
-- 📫 How to reach me: [your-email@example.com]
+- 📫 How to reach me: ganeshdhadke016@gmail.com
 - ⚡ Fun fact: I love turning ideas into reality through code!
 
 ## 🛠 Tech Stack
