@@ -25,34 +25,231 @@ Java Full Stack Developer with hands-on experience architecting end-to-end web a
 
 ## 💻 Tech Stack
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Core](https://img.shields.io/badge/Spring_Core-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-0075A8?style=for-the-badge&logo=java&logoColor=white)
-![OAuth2](https://img.shields.io/badge/OAuth2-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
-![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Mockito](https://img.shields.io/badge/Mockito-6DB33F?style=for-the-badge&logo=java&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnubash&logoColor=white)
-![Payment Integration](https://img.shields.io/badge/Payment_Integration-00457C?style=for-the-badge&logo=stripe&logoColor=white)
+### 🖥️ FRONTEND
+
+<table>
+  <tr>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="28" height="28" alt="React"/><br/>
+      <sub><b>React</b></sub><br/>
+      <sub><i>UI Framework</i></sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="28" height="28" alt="Next.js"/><br/>
+      <sub><b>Next.js</b></sub><br/>
+      <sub><i>UI Framework</i></sub>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
 ---
+
+### ☕ BACKEND · CORE JAVA
+
+<table>
+  <tr>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="28" height="28" alt="Core Java"/><br/>
+      <sub><b>Core Java</b></sub><br/>
+      <sub><i>Language</i></sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="28" height="28" alt="Advanced Java"/><br/>
+      <sub><b>Advanced Java</b></sub><br/>
+      <sub><i>Language</i></sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-plain.svg" width="28" height="28" alt="JUnit"/><br/>
+      <sub><b>JUnit</b></sub><br/>
+      <sub><i>Testing</i></sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="28" height="28" alt="Mockito"/><br/>
+      <sub><b>Mockito</b></sub><br/>
+      <sub><i>Testing</i></sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🌱 BACKEND · SPRING ECOSYSTEM
+
+<table>
+  <tr>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="28" height="28" alt="Spring Core"/><br/>
+      <sub><b>Spring Core</b></sub><br/>
+      <sub><i>Framework</i></sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="28" height="28" alt="Spring Boot"/><br/>
+      <sub><b>Spring Boot</b></sub><br/>
+      <sub><i>Framework</i></sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="28" height="28" alt="Spring Data JPA"/><br/>
+      <sub><b>Spring Data JPA</b></sub><br/>
+      <sub><i>ORM</i></sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="28" height="28" alt="Microservices"/><br/>
+      <sub><b>Microservices</b></sub><br/>
+      <sub><i>Architecture</i></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="28" height="28" alt="Spring AI"/><br/>
+      <sub><b>Spring AI</b></sub><br/>
+      <sub><i>AI Integration</i></sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="28" height="28" alt="Swagger"/><br/>
+      <sub><b>Swagger</b></sub><br/>
+      <sub><i>API Docs</i></sub>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+---
+
+### 🔐 BACKEND · APIS & SECURITY
+
+<table>
+  <tr>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="28" height="28" alt="REST API"/><br/>
+      <sub><b>REST API</b></sub><br/>
+      <sub><i>API Design</i></sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="28" height="28" alt="GraphQL"/><br/>
+      <sub><b>GraphQL</b></sub><br/>
+      <sub><i>API Design</i></sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="28" height="28" alt="OAuth 2.0"/><br/>
+      <sub><b>OAuth 2.0</b></sub><br/>
+      <sub><i>Security</i></sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="28" height="28" alt="Payment Integration"/><br/>
+      <sub><b>Payment Integration</b></sub><br/>
+      <sub><i>Fintech</i></sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🗄️ DATABASE
+
+<table>
+  <tr>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="28" height="28" alt="MySQL"/><br/>
+      <sub><b>MySQL</b></sub><br/>
+      <sub><i>Relational DB</i></sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="28" height="28" alt="PostgreSQL"/><br/>
+      <sub><b>PostgreSQL</b></sub><br/>
+      <sub><i>Relational DB</i></sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="28" height="28" alt="MongoDB"/><br/>
+      <sub><b>MongoDB</b></sub><br/>
+      <sub><i>NoSQL</i></sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="28" height="28" alt="Redis"/><br/>
+      <sub><b>Redis</b></sub><br/>
+      <sub><i>Cache / In-Memory</i></sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📨 MESSAGING
+
+<table>
+  <tr>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="28" height="28" alt="Apache Kafka"/><br/>
+      <sub><b>Apache Kafka</b></sub><br/>
+      <sub><i>Event Streaming</i></sub>
+    </td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+---
+
+### ☁️ DEVOPS & CLOUD
+
+<table>
+  <tr>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="28" height="28" alt="Docker"/><br/>
+      <sub><b>Docker</b></sub><br/>
+      <sub><i>Containerisation</i></sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="28" height="28" alt="Kubernetes"/><br/>
+      <sub><b>Kubernetes</b></sub><br/>
+      <sub><i>Orchestration</i></sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="28" height="28" alt="Firebase"/><br/>
+      <sub><b>Firebase</b></sub><br/>
+      <sub><i>Cloud Platform</i></sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="28" height="28" alt="Vercel"/><br/>
+      <sub><b>Vercel</b></sub><br/>
+      <sub><i>Deployment</i></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="28" height="28" alt="Linux"/><br/>
+      <sub><b>Linux</b></sub><br/>
+      <sub><i>OS</i></sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="28" height="28" alt="Shell Scripting"/><br/>
+      <sub><b>Shell Scripting</b></sub><br/>
+      <sub><i>Automation</i></sub>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+---
+
+### 📐 DESIGN & ARCHITECTURE
+
+<table>
+  <tr>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="28" height="28" alt="LLD"/><br/>
+      <sub><b>LLD</b></sub><br/>
+      <sub><i>System Design</i></sub>
+    </td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
 
 
