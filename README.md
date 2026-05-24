@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Ganesh Dhadke 👋</h1>
+<h1 align="center">Hi there, I'm Ganesh Dhadke </h1>
 <h3 align="center">Java Full Stack Developer · Microservices · Spring Boot · React</h3>
 
 <p align="center">
@@ -25,7 +25,7 @@ Java Full Stack Developer with hands-on experience architecting end-to-end web a
 
 ## 💻 Tech Stack
 
-## 🖥️ Frontend
+# 🖥️ Frontend
 
 ### UI Frameworks
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -33,7 +33,7 @@ Java Full Stack Developer with hands-on experience architecting end-to-end web a
 
 ---
 
-## ⚙️ Backend
+# ⚙️ Backend
 
 ### Core Java
 ![Core Java](https://img.shields.io/badge/Core_Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -93,17 +93,6 @@ Java Full Stack Developer with hands-on experience architecting end-to-end web a
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ganeshdhadke&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshdhadke&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ganeshdhadke&theme=tokyonight&hide_border=true" width="98%" />
-</p>
-
----
 
 *Always learning. Always building.*
