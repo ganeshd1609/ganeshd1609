@@ -11,7 +11,7 @@ Java Full Stack Developer with hands-on experience architecting end-to-end web a
 - 🌱 Exploring **Spring AI** and LLM integrations
 - 💬 Ask me about **Microservices**, **REST/GraphQL APIs**, and **System Design**
 - 📫 Reach me: **ganeshdhadke016@gmail.com**
-- ⚡ Fun fact: I enjoy reverse-engineering how things work — then building something better
+- ⚡ Fun fact: I enjoy reverse-engineering how things work — then building something better.
 
 ---
 
