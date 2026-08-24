@@ -2,7 +2,7 @@
 <h3 align="center">Java Full Stack Developer · Microservices · Spring Boot · React</h3>
 
 <p align="center">
-Java Full Stack Developer with hands-on experience architecting end-to-end web applications — from robust Spring Boot microservices to reactive React/Next.js frontends. Passionate about clean architecture, system design, and turning complex requirements into reliable software.
+Java Full Stack Developer with hands-on experience architecting end-to-end web applications — from robust Spring Boot microservices to reactive React/Next.js frontends.  Passionate about clean architecture, system design, and turning complex requirements into reliable software.
 </p>
 
 ---
